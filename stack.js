@@ -16,7 +16,7 @@ class Stack{
     }
 
     peek(){
-        if(this.mystack,length)
+        if(this.mystack.length)
         {
             return this.mystack.peek(this.mystack.length - 1);
         }
@@ -49,24 +49,3 @@ class Stack{
     }
 
 }
-
-
-function implementUsingQueue()
-{
-    for(let i=0;i<5;i++)
-    {
-        
-    }
-    const st = new Stack();
-}
-// console.log(st.length());
-// function printUsingRecursion(n){
-
-
-// }
-// function print()
-// {
-    
-//     printUsingRecursion(n);
-
-// }
